@@ -15,10 +15,10 @@
                                 </h3>
                                 <br/>
                                 <div class="buttons text-right">
-                                    <a href="#pablo" class="btn btn-icon btn-link btn-neutral btn-lg">
+                                    <a href="https://www.instagram.com/equalproyecto/" class="btn btn-icon btn-link btn-neutral btn-lg">
                                         <i class="fab fa-instagram"></i>
                                     </a>
-                                    <a href="#pablo">
+                                    <a href="https://www.instagram.com/equalproyecto/">
                                          <n-button type="neutral" size="lg" round simple><strong>Participa!</strong></n-button>
                                     </a>
                                 </div>
@@ -54,7 +54,7 @@
                         <div class="card-container">
                             <div class="card card-fashion">
                                 <div class="card-title">
-                                    <a href="#pablo">
+                                    <a href="https://www.instagram.com/equalproyecto/">
                                         <h4>
                                             Sabíes que 1 de cada 10 dones majors de 15 anys ha patit algún tipus de violència masclista a Internet i a les Xarxes Socials?
                                         </h4>
@@ -85,7 +85,7 @@
                             <div class="card card-fashion arrow-left">
                                 <div class="card-title">
                                     <h4>
-                                        <a href="#pablo">
+                                        <a href="https://www.instagram.com/equalproyecto/">
                                             Ajudan's a detectar imatges i textes que representin "Igualtat de Gènere" o "Violència masclista" des del teu feed d'Instagram.
                                         </a>
                                     </h4>
